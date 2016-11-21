@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^1.4.2",
+    "async": "^2.1.2",
     "twit": "^2.1.0",
     "xtend": "^4.0.0",
     "yamljs": "^0.2.3"
