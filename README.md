@@ -1,5 +1,7 @@
 ### mad science for the twitter api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/twitter-api-hacks.svg)](https://greenkeeper.io/)
+
 status: hacks.
 
 can: dump all followers for user to json
